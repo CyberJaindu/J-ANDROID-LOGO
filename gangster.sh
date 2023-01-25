@@ -1,5 +1,5 @@
-GNU nano 7.2                                                                          LOVE
-=#color
+                                                                  
+#color
 r='\e[1;31m'
 g='\e[1;32m'
 y='\e[1;33m'
