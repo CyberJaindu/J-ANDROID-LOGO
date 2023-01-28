@@ -1,6 +1,6 @@
 🇱🇰
 
-# J-Baner
+# J-ANDROID-LOGO
 
 - 👋 Hi, I’m @CyberJaindu
 - 👀 I’m interested in ...
